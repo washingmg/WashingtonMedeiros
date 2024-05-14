@@ -3,7 +3,7 @@
 
 <div align="left">
   <a href="https://github.com/washingmg">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=washingmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=washingmg&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 
 </div>
   <br>
